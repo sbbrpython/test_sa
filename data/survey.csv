@@ -1,0 +1,11 @@
+Respondent_ID,Age,Gender,City,Income_LPA,Product_Usage,Satisfaction_Score
+1,28,Male,Bangalore,12,Daily,8
+2,35,Female,Mumbai,18,Weekly,7
+3,42,Male,Delhi,25,Daily,9
+4,31,Female,Hyderabad,10,Monthly,6
+5,26,Male,Chennai,8,Weekly,7
+6,48,Female,Pune,30,Daily,9
+7,39,Male,Bangalore,20,Weekly,8
+8,55,Female,Mumbai,35,Monthly,6
+9,33,Male,Hyderabad,15,Daily,8
+10,45,Female,Delhi,22,Weekly,7
