@@ -1,0 +1,6 @@
+pandas
+sdv
+langchain
+gradio
+openai
+faker
